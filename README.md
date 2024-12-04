@@ -10,11 +10,10 @@ Distributed Invariant Kalman Filter based on Covariance Intersection for multi r
 Method= [   0,       1,       1,        1];
 ```
 
-<img src="C:\Users\73922\AppData\Roaming\Typora\typora-user-images\image-20241204144916198.png" alt="image-20241204144916198" style="zoom: 80%;" />
+<img src="[C:\Users\73922\AppData\Roaming\Typora\typora-user-images\image-20241204144916198.png" alt="image-20241204144916198](https://github.com/LIAS-CUHKSZ/DInCIKF/blob/main/TestResults/data18/data18rmse_%E7%BA%AF%E5%9B%BE%E7%89%88.pdf)" style="zoom: 80%;" />
 
 **beautiful_scene.mlx**: Draw the pose frames of the test scene and the objects in the environment. Also it will generate a video of the estimation result. This script must be run after running the main.mlx with  SAVEVIDEO set to be 1;
 
-<img src="C:\Users\73922\AppData\Roaming\Typora\typora-user-images\image-20241204145104654.png" alt="image-20241204145104654" style="zoom:67%;" />
 
 
 
